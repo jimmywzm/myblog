@@ -5,8 +5,6 @@ subtitle:   " \"管理好工具栏 ，提高设计效率！\""
 header-img: "img/sketch3_icon.png"
 ---
 
-#［Sketch 3 教程］工具栏篇 V1.0
-
 ## 如何自定义工具栏 ？
 
 自定义工具很简单，只需要右键点击顶部工具栏。
@@ -38,4 +36,4 @@ header-img: "img/sketch3_icon.png"
 
 有任何的疑问，您可以关注我的微信公众号，并且留下您的疑问。如果我能回答的话，我会尽力在24小时内回复您。：)
 
-	![my QR code]({{ http://www.questionhunt.com/sketch-tutorial-toolbar/ }}/img/learningByTeaching_QRCode.jpg){: .aligncenter}
+![my QR code]({{ http://www.questionhunt.com/sketch-tutorial-toolbar/ }}/img/learningByTeaching_QRCode.jpg){: .aligncenter}
