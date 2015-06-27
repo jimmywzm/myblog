@@ -10,15 +10,19 @@ header-img: "img/sketch3_icon.png"
 在Sketch中有两种常用的改变图层大小的方法：
 
 1. 点击图层，图层会出现8个白点，按住白点并拖动白点即可改变图层大小。（比如拖动右上角白点，你可以改变图层高度和宽度）
+
 ![transfer layer 1]({{ http://www.questionhunt.com/sketch-tutorial-symbol/ }}/assets/sketch_layer/transferLayerB01.gif){: .aligncenter}
 
 2. 按住Shift键，拖动白点，图层的高度和宽度会同时按比例变化。而且会以对角做为基准点改变图层大小。（如按住Shift键，拖动右上角白点，左下角白点不会移动，图层按比例变大变小）
+
 ![transfer layer 2]({{ http://www.questionhunt.com/sketch-tutorial-symbol/ }}/assets/sketch_layer/transferLayerB02.gif){: .aligncenter}
 
 3. 如果在拖动白点的同时，按住Option键，图层会以图层中点做为基准点改变图层大小，而不是以对角做为基准点。并且图层**并不是**按比例变化。（比如说按住Option键，拖动右上角白点，左下角白点也会移动）
+
 ![transfer layer 3]({{ http://www.questionhunt.com/sketch-tutorial-symbol/ }}/assets/sketch_layer/transferLayerB03.gif){: .aligncenter}
 
 4. 若想精准地改变图层大小，可以按住Command键和方向键来改变图层大小。Command＋右方向键：宽度增加 1px
+
 ![transfer layer 4]({{ http://www.questionhunt.com/sketch-tutorial-symbol/ }}/assets/sketch_layer/transferLayerB04.gif){: .aligncenter}
 
 	Command＋左方向键：宽度减小 1px
@@ -37,9 +41,11 @@ header-img: "img/sketch3_icon.png"
 
 1. 现在有一个图层A（蓝色正方形）和一个图层B（红色正方形）。蓝色正方形很大并且盖住了红色正方形。
 2. 如果在图层选择器中选中图层B（红色正方形），然后再去移动图层B。你会发现，移动的图层却是A（蓝色正方形）。原因就是图层A将图层B遮住了。
+
 ![move layer 1]({{ http://www.questionhunt.com/sketch-tutorial-symbol/ }}/assets/sketch_layer/moveLayerB01.gif){: .aligncenter}
 
 3. 如果想要移动被遮住图层B，只需**按住** Option + Command ( Macbook pro 键盘空格键左边两个键 ），然后在图层选择器中选中图层B，接着移动图层B。
+
 ![move layer 1]({{ http://www.questionhunt.com/sketch-tutorial-symbol/ }}/assets/sketch_layer/moveLayerB02.gif){: .aligncenter}
 
 有任何的疑问，您可以关注我的微信公众号，并且留下您的疑问。如果我能回答的话，我会尽力在24小时内回复您。：)
