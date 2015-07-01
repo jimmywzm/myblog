@@ -56,8 +56,8 @@ Text on Path 功能可以让你的文本根据一定的路径排列。比如这�
 
 那要实现这个功能需要：
 1. 将图形图层放在文本图层下面。（这一点很重要，放在上面是不行的。）
-2. 点击屏幕顶端的Type > Text on Path。<br/>
-![text menu path]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/textMenu_path.png){: .aligncenter} <br/>
+2. 点击屏幕顶端的Type > Text on Path。
+![text menu path]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/textMenu_path.png){: .aligncenter} 
 3. 将文本拖动到图形那，Sketch会自动将Text置于Path上。<br/>
 ![text on path]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/textOnPath.gif){: .aligncenter}
 
