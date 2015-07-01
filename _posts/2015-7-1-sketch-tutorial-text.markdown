@@ -25,6 +25,8 @@ header-img: "img/sketch3_icon.png"
 
 ![edit text 02]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/editingText02.png){: .aligncenter}
 
+然后你就可以修改你想要修改的内容了：
+
 1. Typeface: 改变字体
 2. Weight：Regular（常规体）Light（细体） Bold（粗体）
 3. Options：添加下划线等。
