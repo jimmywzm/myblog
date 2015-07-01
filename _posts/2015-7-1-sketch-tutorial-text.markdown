@@ -28,9 +28,6 @@ header-img: "img/sketch3_icon.png"
 1. Typeface: 改变字体
 2. Weight：Regular（常规体）Light（细体） Bold（粗体）
 3. Options：添加下划线等。
-
-![change options]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/changeOptions.gif){: .aligncenter}
-
 4. Color：改变字体颜色。
 5. Size：改变字体大小。
 6. Alignment：改变排版样式。
