@@ -76,7 +76,7 @@ Text中的每个字母都可以单独编辑了。需要注意的是，Sketch官�
 ## 为何要将Text转换为矢量图形 ？
 如果你想要单独编辑文本中的字母，就一定要使用Convert Text to Outlines功能，但是其实Convert Text to Outlines在制作UI的时候会非常有用。原因如下：
 
-1. 在制作UI的过程中，遇到要让某个按钮变大的情况，设计师通常采用鼠标拉伸的方式让按钮变大。如果按钮中有一个普通的文本。会这样：
-![why use convert text to outlines 01]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/whyUseConvertTextToOutlines01.gif){: .aligncenter}
-2. 如果是使用了Convert Text to Outlines呢？使用了此功能后，文本也会随着鼠标的拉伸而变化了。
+1. 在制作UI的过程中，遇到要让某个按钮变大的情况，设计师通常采用鼠标拉伸的方式让按钮变大。如果按钮中有一个普通的文本。会这样：</br>
+![why use convert text to outlines 01]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/whyUseConvertTextToOutlines01.gif){: .aligncenter} </br>
+2. 如果是使用了Convert Text to Outlines呢？使用了此功能后，文本也会随着鼠标的拉伸而变化了。</br>
 ![why use convert text to outlines 02]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/whyUseConvertTextToOutlines02.gif){: .aligncenter}
