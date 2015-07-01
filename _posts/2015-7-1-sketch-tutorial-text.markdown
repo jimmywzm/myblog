@@ -13,10 +13,12 @@ header-img: "img/sketch3_icon.png"
 
 ![create text 02]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/createText02.gif){: .aligncenter}
 
+
 ## 如何编辑文本 ？
 **双击** 你想编辑的文本，就会进入编辑模式。然后就可以编辑你想要编辑的文本了！
 
 ![edit text 01]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/editingText01.gif){: .aligncenter}
+
 
 ## 如何修改文本样式 ？
 **单击** 你想要编辑的文本，sketch右边的检查器就会变成这样。
@@ -37,6 +39,7 @@ header-img: "img/sketch3_icon.png"
 9. Opacity：不透明度。
 10. Blending：混合模式。
 
+
 ## 文本框宽度自动模式与固定模式有何区别 ？
 自动模式下：文本框会自动扩展以容纳一切文本。
 
@@ -45,6 +48,7 @@ header-img: "img/sketch3_icon.png"
 固定模式下：则会在你输入文本时，保持原有宽度不变，而增加文本框的高度。
 
 ![width fix]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/widthFix.gif){: .aligncenter}
+
 
 ## 如何使用Text on Path功能 ？
 Text on Path 功能可以让你的文本根据一定的路径排列。比如这样：
@@ -61,6 +65,7 @@ Text on Path 功能可以让你的文本根据一定的路径排列。比如这�
 
 ![text on path]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/textOnPath.gif){: .aligncenter}
 
+
 ## 如何将Text转换为矢量图形 ？
 要将Text转换为矢量图形，只需要选中你需要转换的文本，然后点击屏幕顶端的Type > Convert Text to Outlines。（或者快捷键 Shift + Command + O）
 
@@ -69,6 +74,7 @@ Text on Path 功能可以让你的文本根据一定的路径排列。比如这�
 Text中的每个字母都可以单独编辑了。需要注意的是，Sketch官方推荐在转换的时候，尽量之转换少量文本。如果一次转换大量的文本，Sketch需要比较长的处理时间。如果真的需要转换长文段，最好就分多次转换，一个长文段分成几个短文段。
 
 ![convert text to outlines 02]({{ http://www.questionhunt.com/sketch-tutorial-text/ }}/assets/sketch_text/convertTextToOutlines.png){: .aligncenter}
+
 
 ## 为何要将Text转换为矢量图形 ？
 如果你想要单独编辑文本中的字母，就一定要使用Convert Text to Outlines功能，但是其实Convert Text to Outlines在制作UI的时候会非常有用。原因如下：
