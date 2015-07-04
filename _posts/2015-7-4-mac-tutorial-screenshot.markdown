@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "[Mac 教程] 截图篇 V1.0"
-subtitle:   " \"Mac体统截图知多少\""
+subtitle:   " \"Mac系统截图知多少\""
 header-img: "img/sketch3_icon.png"
 ---
 
@@ -11,7 +11,7 @@ header-img: "img/sketch3_icon.png"
 最快捷的方法就是使用系统提供的截图方案。方法有两种：
 
 1. 全屏截图：同时按住 Shift + Command + 3，然后松开这三个键既可以完成全屏截图。图片保存在桌面上，并且名称为“屏幕快照 + 截图时间” 比如：2015-06-28 下午10.17.10 <br/>
-![Macbook keyboard]({{ http://www.questionhunt.com/mac-tutorial-screenshot/ }}/assets/mac_screenshot/macKeyboard_screenshot.jpg){: .aligncenter} <br/>
+![Macbook keyboard]({{ http://www.questionhunt.com/mac-tutorial-screenshot/ }}/assets/mac_screenshot/macKeyboard_screenshot01.jpg){: .aligncenter} <br/>
 
 2. 区域截图：同时按住 Shift + Command + 4，然后松开这三个键，然后选择你想要截图的地方即可。<br/>
 ![screenshot example 01]({{ http://www.questionhunt.com/mac-tutorial-screenshot/ }}/assets/mac_screenshot/screenshotTest01.gif){: .aligncenter} <br/>
