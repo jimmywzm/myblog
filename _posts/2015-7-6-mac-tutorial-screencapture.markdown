@@ -15,7 +15,7 @@ header-img: "img/sketch3_icon.png"
 3. 接着在系统顶部点击文件 > **新建文件录制**。<br/>
 ![quicktime player menu]({{ http://www.questionhunt.com/mac-tutorial-screencapture/ }}/assets/mac_screenCapture/quickTimePlayer.png){: .aligncenter}<br/>
 4. 接着会弹出一个这样的窗口：<br/>
-![screen capture 01]({{ http://www.questionhunt.com/mac-tutorial-screencapture/ }}/assets/mac_screenCapture/.png){: .aligncenter}<br/>
+![screen capture 01]({{ http://www.questionhunt.com/mac-tutorial-screencapture/ }}/assets/mac_screenCapture/screenCapture01.png){: .aligncenter}<br/>
 5. 然后点击窗口中的红色点，鼠标框选录制范围，接着点击开始录制。<br/>
 ![screen capture 01]({{ http://www.questionhunt.com/mac-tutorial-screencapture/ }}/assets/mac_screenCapture/screenCapture01.gif){: .aligncenter}<br/>
 6. 最后，暂停录制只需要点击系统顶部的这个按钮即可：<br/>
