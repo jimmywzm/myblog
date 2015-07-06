@@ -29,5 +29,8 @@ header-img: "img/sketch3_icon.png"
 2. 点击抓图软件。<br/>
 ![menu other]({{ http://www.questionhunt.com/mac-tutorial-screenshot/ }}/assets/mac_screenshot/menuOtherScreenshot.png){: .aligncenter} <br/>
 
-然后在系统顶部点击捕捉 > 窗口。接着会弹出一个选项窗口，点击选取窗口，最后鼠标点击下你想要截的窗口。完成后，只需要保存所截的图即可。用这种方法截图是不带阴影的。以这种方法截图还可以实现屏幕定时截图等。<br/>
+然后在系统顶部点击捕捉 > 窗口。<br/>
+![screenshot menu]({{ http://www.questionhunt.com/mac-tutorial-screenshot/ }}/assets/mac_screenshot/screenshotMenu.png){: .aligncenter} <br/>
+
+接着会弹出一个选项窗口，点击选取窗口，最后鼠标点击下你想要截的窗口。完成后，只需要保存所截的图即可。用这种方法截图是不带阴影的。以这种方法截图还可以实现屏幕定时截图等。<br/>
 ![screenshot example 03]({{ http://www.questionhunt.com/mac-tutorial-screenshot/ }}/assets/mac_screenshot/screenshotTest03.gif){: .aligncenter} <br/>
