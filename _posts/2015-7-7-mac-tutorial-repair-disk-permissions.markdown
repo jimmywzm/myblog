@@ -9,8 +9,7 @@ header-img: "img/sketch3_icon.png"
 
 所以偶尔修复一下磁盘权限还是挺有必要的，但是要注意的是，不要指望修复磁盘权限能让你的Mac运行更快，因为这个通常影响不大。
 
-## 如何修复磁盘权限 ？
-<br/>
+## 如何修复磁盘权限 ？<br/>
 1. 在软件目录中找到一个叫其他的文件夹。<br/>
 ![menu other]({{ http://www.questionhunt.com/mac-tutorial-repair-disk-permissions/ }}/assets/mac_repairDiskPermissions/menuOther.png){: .aligncenter}<br/>
 2. 在文件夹中找到磁盘工具。<br/>
