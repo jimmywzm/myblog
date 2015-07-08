@@ -2,7 +2,7 @@
 layout:     post
 title:      "[Mac 教程] 屏幕录像篇 V1.0"
 subtitle:   " \"Mac其实可以做很多事！\""
-header-img: "img/macOS.png"
+header-img: "img/macOS.jpg"
 ---
 
 ## 如何使用屏幕录制功能 ？

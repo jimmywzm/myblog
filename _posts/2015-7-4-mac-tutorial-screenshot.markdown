@@ -2,7 +2,7 @@
 layout:     post
 title:      "[Mac 教程] 截图篇 V1.0"
 subtitle:   " \"Mac系统截图知多少\""
-header-img: "img/macOS.png"
+header-img: "img/macOS.jpg"
 ---
 
 在使用Mac系统的时候，常常遇到需要截图的情况，而很多人都会使用微信或QQ来截图。其实在Mac系统下，截图其实很简单！
