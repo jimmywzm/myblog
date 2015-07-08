@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "[Mac 教程] 修复磁盘权限篇 V1.0"
-header-img: "img/sketch3_icon.png"
+header-img: "img/macOS.png"
 ---
 
 ## 为什么要使用修复磁盘权限 ？
