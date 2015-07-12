@@ -10,10 +10,10 @@ header-img: "img/macOS.jpg"
 ## Mac支持哪些手势 ？
 Mac支持15种触控板手势。点击屏幕顶部苹果Logo > 系统偏好设置 <br/>
 ![system menu]({{ http://www.questionhunt.com/mac-totorial-touchpad/ }}/assets/mac_touchPad/systemMenu.png){: .aligncenter}<br/>
-
-点击触控板。
+点击触控板。<br/>
+![system menu touchpad]({{ http://www.questionhunt.com/mac-totorial-touchpad/ }}/assets/mac_touchPad/systemMenu_touchPad.png){: .aligncenter}<br/>
 之后就可以看到多个鼠标手势了，勾选你所需要的手势即可。<br/>
-![system menu touchpad]({{ http://www.questionhunt.com/mac-totorial-touchpad/ }}/assets/mac_touchPad/systemMenu_touchPad.png){: .aligncenter}
+![touchpad]({{ http://www.questionhunt.com/mac-totorial-touchpad/ }}/assets/mac_touchPad/touchPad.png){: .aligncenter}<br/>
 
 ## 常用的手势有哪些 ？
 在光标与点按那一栏，笔者通常使用：
