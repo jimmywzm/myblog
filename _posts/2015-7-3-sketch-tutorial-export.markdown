@@ -23,10 +23,10 @@ header-img: "img/sketch3_icon.png"
 
 ## 如何导出切片 ？
 有的时候，设计师可能需要在一个文件内同时输出两个或多个图层。比如，现在这种情况：<br/>
-![export slices example]({{ http://www.questionhunt.com/sketch-tutorial-export/ }}/assets/sketch_export/exportSlicesExample.png){: .aligncenter}
+![export slices example]({{ http://www.questionhunt.com/sketch-tutorial-export/ }}/assets/sketch_export/exportSlicesExample.png){: .aligncenter}<br/>
 
-确定与删除键是两个图层，如果使用上面的方法去输出文件的化，Sketch 3 输出两个文件 —— 一个确定，一个删除。如果你只希望输出一个文件，那么就需要使用切片功能。<br/>
-![export slices]({{ http://www.questionhunt.com/sketch-tutorial-export/ }}/assets/sketch_export/exportSlices.gif){: .aligncenter}
+确定与删除键是两个图层，如果使用上面的方法去输出文件的化，Sketch 3 输出两个文件 —— 一个确定，一个删除。如果你只希望输出一个文件，那么就需要使用切片功能。<br/><br/>
+![export slices]({{ http://www.questionhunt.com/sketch-tutorial-export/ }}/assets/sketch_export/exportSlices.gif){: .aligncenter}<br/>
 
 ## Sketch 3 右上角的 Export 是用来干嘛的 ？
 点击右上角的 Export，Sketch 3 会出现一个窗口，里面会有所有可以输出的图层、Artboard、切片等。你只要勾选你想要输出的东西，然后点击Export即可。但你可能会发现，这个窗口没有你想要的图层。那是因为在这个窗口内，只会显示那些你已经 Make Exportable 的图层。当你需要统一输出文件的时候，只需要将你需要export的图层 make exportable即可。还需要注意的一点是，从这里输出，只会输出你在Exportable那设置的输出倍数。<br/>
