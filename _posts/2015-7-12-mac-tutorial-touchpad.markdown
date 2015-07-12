@@ -19,7 +19,7 @@ Mac支持15种触控板手势。点击屏幕顶部苹果Logo > 系统偏好设�
 在光标与点按那一栏，笔者通常使用：
 1. 轻拍来点按。这样你就不需要大力按下触控板来完成点按工作。这样可以大大提高触控板寿命。
 2. 查找。很多时候，遇到不懂的英文单词，可以三指轻按触控板，呼出字典菜单。而且这个查找还可以查找维基百科上的内容。<br/>
-![touch pad example 01]({{ http://www.questionhunt.com/mac-totorial-touchpad/ }}/assets/mac_touchPad/touchPadExample01.png){: .aligncenter}<br/>
+![touch pad example 01]({{ http://www.questionhunt.com/mac-totorial-touchpad/ }}/assets/mac_touchPad/touchPadExample01.gif){: .aligncenter}<br/>
 
 滚动缩放则常用：
 1. 放大或缩小。就像你在手机上放大照片那样，两指捏合即可。
