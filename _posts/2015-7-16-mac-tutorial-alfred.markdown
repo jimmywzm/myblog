@@ -54,7 +54,7 @@ header-img: "img/alfred.jpg"
 	比如我键入“文明”二字：[http://www.bilibili.com/search?keyword=文明&orderby=&formsubmit=&type=comprehensive&seid=7067591634709909690]将该网址粘贴到Search URL。
 	接着将这个网址中“文明”二字及他们后面的东西删除，换成{query}。那么最后网址就是[http://www.bilibili.com/search?keyword=\{query}]。最后在Title处填上：Search Bilibili for '{query}’。Keyword可以设成你喜欢的快捷键。如果想个性化一点，再从网上下一个B站的icon，拖到下图的框中的位置。
   ![alfred features 04]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredFeatures04.png){: .aligncenter}
-	一切搞好，点下Test，如果一切顺利，就会这样最后点击Save。
+	一切搞好，点下Test，如果一切顺利，就会这样最后点击Save。<br/>
   ![alfred features 05]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredFeatures05.gif){: .aligncenter}<br/>
 	如果需要添加其他的网站，都只需要将键入的内容及内容后面的东西删除换成{query}即可。
 	这里给大家一些常用的网站：
@@ -66,8 +66,8 @@ header-img: "img/alfred.jpg"
 要想开启高级功能，则需要购买官网的Powerpack（alfredWebsite02）。一个售价17英镑，大概170元人民币。<br/>
 ![alfred website 02]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredWebsite02.png){: .aligncenter}
 高级功能就是Workflow，简单说来就是插件。安装不同的插件，会有不同的功能。比如豆瓣插件：<br/>
-![Alfred Workflow]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredWorkflow.gif){: .aligncenter}<br/>（alfredWorkflow）
+![Alfred Workflow]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredWorkflow.gif){: .aligncenter}<br/>
 
 ## 从哪里可以下载到 Alfred 的 Workflow ？
-hzlzh大神制作了一个Workflow的网站：[http://www.alfredworkflow.com]可以在这个网站那下载到很多好用的Workflow。
-也可以从官方论坛下载：[http://www.alfredforum.com/forum/3-share-your-workflows/]
+hzlzh大神制作了一个Workflow的网站：http://www.alfredworkflow.com 可以在这个网站那下载到很多好用的Workflow。
+也可以从官方论坛下载：http://www.alfredforum.com/forum/3-share-your-workflows/
