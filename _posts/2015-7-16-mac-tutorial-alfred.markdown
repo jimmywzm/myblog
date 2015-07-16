@@ -20,7 +20,7 @@ header-img: "img/alfred.jpg"
   ![alfred example 01]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredExapmle01.gif){: .aligncenter}<br/>
 2. 字典搜索
 	键入你想查询的单词，Alfred会自动链接字典。<br/>
-  ![alfred example 02]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_dalfred/alfredExapmle02.gif){: .aligncenter}<br/>
+  ![alfred example 02]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredExapmle02.gif){: .aligncenter}<br/>
 3. 网络搜索
 	键入你想要搜索的东西，然后按下回车键即可。Alfred甚至可以设置自定义搜索，比如我想要搜索Bilibili上的东西，我也可以在Alfred上完成。<br/>
   ![alfred example 03]({{ http://www.questionhunt.com/mac-totorial-alfred/ }}/assets/mac_alfred/alfredExapmle03.gif){: .aligncenter}<br/>
