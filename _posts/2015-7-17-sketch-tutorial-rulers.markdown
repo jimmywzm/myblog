@@ -5,7 +5,7 @@ header-img: "img/sketch3_icon.png"
 ---
 ## 如何添加标尺 ？
 点击Sketch顶部的View，会呼出一个菜单。<br/>
-![view setting]({{ http://www.questionhunt.com/sketch-totorial-rulers/ }}/assets/sketch_rulers/viewSetting.png){: .aligncenter}
+![view setting]({{ http://www.questionhunt.com/sketch-tutorial-rulers/ }}/assets/sketch_rulers/viewSetting.png){: .aligncenter}
 点击Show Rulers，即可添加标尺。
 ![view rulers]({{ http://www.questionhunt.com/sketch-totorial-rulers/ }}/assets/sketch_rulers/viewRulers.png){: .aligncenter}
 
