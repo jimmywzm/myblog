@@ -4,13 +4,13 @@ title:      "[Sketch 3 教程] 标尺，参考线以及网格篇 V1.0"
 header-img: "img/sketch3_icon.png"
 ---
 ## 如何添加标尺 ？
-点击Sketch顶部的View，会呼出一个菜单。
+点击Sketch顶部的View，会呼出一个菜单。<br/>
 ![view setting]({{ http://www.questionhunt.com/sketch-totorial-rulers/ }}/assets/sketch_rulers/viewSetting.png){: .aligncenter}
 点击Show Rulers，即可添加标尺。
 ![view rulers]({{ http://www.questionhunt.com/sketch-totorial-rulers/ }}/assets/sketch_rulers/viewRulers.png){: .aligncenter}
 
 ## 如何添加参考线 ？
-点击标尺，即可添加一条红色的参考线，参考线可以移动也可以删除。右键点击参考线 > Remove Guide 既可以删除参考线。（addRulers）
+点击标尺，即可添加一条红色的参考线，参考线可以移动也可以删除。右键点击参考线 > Remove Guide 既可以删除参考线。<br/>
 ![add rulers]({{ http://www.questionhunt.com/sketch-totorial-rulers/ }}/assets/sketch_rulers/addRulers.gif){: .aligncenter}
 
 ## 如何添加规则网格 ？
