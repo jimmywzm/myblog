@@ -18,7 +18,7 @@ header-img: "img/macOS.jpg"
 
 ## 如何添加字典库到系统字典 ？
 下载好你需要的字典。（在网上搜索Macbook字典即可。）
-点击 finder 在最左边找到设备 > XXX 的 Macbook Pro （这里的XXX是你的系统用户名）然后点击 Macintosh HD
+点击 finder 在最左边找到设备 > XXX 的 Macbook Pro （这里的XXX是你的系统用户名）然后点击 Macintosh HD。
 ![dictionary 05]({{ http://www.questionhunt.com/mac-tutorial-dictionary/ }}/assets/mac_dictionary/dictionary05.png){: .aligncenter}
 资源库
 ![dictionary 06]({{ http://www.questionhunt.com/mac-tutorial-dictionary/ }}/assets/mac_dictionary/dictionary06.png){: .aligncenter}
