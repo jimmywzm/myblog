@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "[Mac 教程] SelfControl 篇 V1.0 "
-header-img: "img/selfcontrol.jpg"
+header-img: "img/selfcontrol.png"
 ---
 ## 什么是SelfControl ？
 一句话介绍SelfControl —— 这是个治疗网瘾的神器。（比电疗来得更厉害。）当然，各种拖延症患者也可使用。它的主要功能就是，在一段时间内，强制阻拦你浏览黑名单内的网站。而且不管你删除、重装软件还是重启计算机都不能浏览。
