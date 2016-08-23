@@ -1,10 +1,32 @@
 # Site settings
-title: Learning By Teaching － A blog about my learning path.
+title: Learning By Teaching
+header-img: img/home-bg.jpg
 email: learningbyteaching.jimmy@gmail.com
-description: 我一直觉得学习任何东西，最好的方法就是将你学到的东西教一遍。现在我正在学习各种设计类的软件，所以我想将我学到的东西写下来，po到这个博客。供大家学习。
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://questionhunt.com" # the base hostname & protocol for your site
+description: "我一直觉得学习任何东西，最好的方法就是将你学到的东西教一遍。现在我正在学习各种设计类的软件，所以我想将我学到的东西写下来，po到这个博客。供大家学习。"
+baseurl: ""
+url: "http://www.iamjimmywang.com"
+zhihu_username: thinkingjimmy
+facebook_username: thinkingjimmy
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 permalink: /:title
+paginate: 20
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Jimmy" # set defalut author
+      comments: true
+
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+kramdown:
+  input: GFM
